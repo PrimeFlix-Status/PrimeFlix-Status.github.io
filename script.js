@@ -49,8 +49,8 @@ $(document).ready(function () {
 			response_times_warning: 3000,
 		},
 		github: {
-			org: 'satzisa',
-			repo: 'primeflix.github.io'
+			org: 'PrimeFlix-Status',
+			repo: 'PrimeFlix-Status.github.io'
 		},
 		theme: 'dark'
 	};
