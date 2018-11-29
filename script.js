@@ -32,8 +32,6 @@ $(document).ready(function () {
 				'm781533577-19d073b47b185c2050f06573',
 				// NZBHydra2
 				'm781533624-3391b8036b8090ea0ba6c0bc',
-				// Monitorr
-				'm781178965-e46146ca869fd9f9082b4332',
 				// Jackett
 				'm781533604-cffb88a0ed82925007cb6951',
 				// Netdata
