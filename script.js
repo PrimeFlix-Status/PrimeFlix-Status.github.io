@@ -6,37 +6,23 @@ $(document).ready(function () {
 				'm781533570-85f03587db01a2f1ff1e5b10',
 				// Plex
 				'm781526369-f74aa9257bf8fbb775e8df67',
-				// Sonarr
+				// TVshows
 				'm781533572-374ab8c61a812f9256d53239',
-				// Sonarr 4K
+				// TVshows 4K
 				'm781533576-6acd49f72abcb77ae42f37bf',
-				// Tautulli
+				// Plexpy
 				'm781533590-8d2c178324fc23ead6b8b8b7',
-				// Radarr
+				// Movies
 				'm781533573-c57b4737eb62e6024bd7d068',
-				// Radarr 4K
+				// Movies 4K
 				'm781533575-098f6735f3c10a4ed4d5881a',
-				// Mellow
+				// PrimeFlix Bot
 				'm781533616-4cfd0bf675219ca9cc09af6d',
-				// Jdownloader
-				'm781533631-ee21a86f47335ec8d66fc4af',
-				// NZBGet
-				'm781533578-a1fc24b7b152b965736e4235',
 				// Plex Request
 				'm781533591-403e6bcc0d7b54787653c212',
-				// Lidarr
-				'm781533618-e723f03b43a7caf0dff1cfcc',
-				// Logarr
-				'm781533612-dc15e6acdcff9c8145cbbdc0',
-				// ruTorrent
-				'm781533577-19d073b47b185c2050f06573',
-				// NZBHydra2
-				'm781533624-3391b8036b8090ea0ba6c0bc',
-				// Jackett
-				'm781533604-cffb88a0ed82925007cb6951',
 				// Netdata
 				'm781533587-9b90287af8d23cf67cc0299c',
-				// Portainer
+				// Docker UI
 				'm781533594-a75b856790e3cbb4a00c8756'
 			],
 			logs: 1,
