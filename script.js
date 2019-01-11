@@ -20,8 +20,8 @@ $(document).ready(function () {
 				'm781533616-4cfd0bf675219ca9cc09af6d',
 				// Plex Request
 				'm781533591-403e6bcc0d7b54787653c212',
-				// Netdata
-				'm781533587-9b90287af8d23cf67cc0299c',
+				// Music
+				'm781533618-e723f03b43a7caf0dff1cfcc',
 				// Docker UI
 				'm781533594-a75b856790e3cbb4a00c8756'
 			],
