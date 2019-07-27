@@ -4,8 +4,10 @@ $(document).ready(function () {
 			api_keys: [
 				// PrimeFlix
 				'm781533570-85f03587db01a2f1ff1e5b10',
-				// Plex
+				// Plex - PF
 				'm781526369-f74aa9257bf8fbb775e8df67',
+				// Plex - PF III
+				'm783172382-92ea11ea62f46dd4e51d22b3',
 				// TVshows
 				'm781533572-374ab8c61a812f9256d53239',
 				// TVshows 4K
