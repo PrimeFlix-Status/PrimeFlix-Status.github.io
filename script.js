@@ -8,6 +8,10 @@ $(document).ready(function () {
 				'm781526369-f74aa9257bf8fbb775e8df67',
 				// Plex - PF III
 				'm783172382-92ea11ea62f46dd4e51d22b3',
+				// Plex - PF-Music
+				'm783761622-2f2e7f05a52324006025ed9f',
+				// Emby - PF
+				'm783761627-fb58dab95f0f9d928b466cec',
 				// TVshows
 				'm781533572-374ab8c61a812f9256d53239',
 				// TVshows 4K
