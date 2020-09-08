@@ -6,12 +6,16 @@ $(document).ready(function () {
 				'm781533570-85f03587db01a2f1ff1e5b10',
 				// Plex - PF
 				'm781526369-f74aa9257bf8fbb775e8df67',
-				// Plex - PF III
+				// Plex - PF III-EU
 				'm783172382-92ea11ea62f46dd4e51d22b3',
+				// Plex - PF-US
+				'm785923538-4317c5f9e67e02b4d2aa4fec',
 				// Plex - PF-Music
 				'm783761622-2f2e7f05a52324006025ed9f',
-				// Emby - PF
+				// Emby - PF-EU
 				'm783761627-fb58dab95f0f9d928b466cec',
+				// Emby - PF-US
+				'm785923541-bad7b33e8afaa88c4ae95b18',
 				// TVshows
 				'm781533572-374ab8c61a812f9256d53239',
 				// TVshows 4K
